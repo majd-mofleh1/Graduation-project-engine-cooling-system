@@ -7,7 +7,7 @@ Objectives
 Improve engine thermal management.
 Reduce temperature variations and hot spots.
 Evaluate coolant flow under different operating conditions.
-Tools
+Tools:
 MATLAB
 Fusion 360
 Heat Transfer Analysis
